@@ -1,15 +1,13 @@
 h2 {
+	background-color: aliceblue;
 	margin: 40px 30px 30px 30px;
+	border-radius: 0 30px 30px 0;
 }
 
-p {
-	margin: 30px 30px 0 30px;
-}
-
-button {
-	font-size: 18px;
-	background-color: purple;
-	color: white;
-	border-radius: 30px;
-	margin: 30px 0 0 0;
+img {
+	background-color: lightblue;
+	width: 100px;
+	padding: 10px;
+	margin: 10px 5px 0 5px;
+	border-radius: 20px;
 }
