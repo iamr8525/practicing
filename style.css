@@ -1,19 +1,17 @@
-.photo {
+img {
 	height: 100px;
-	width: 200px;
-	border-radius: 30px;
-
+	width: 100px;
+	margin: 10px;
+	border: solid olive;
+	padding: 5px;
 }
 
-.population {
-	border: solid 5px plum;
-
-}
-
-.funfact {
-	border: solid 5px green;
-
-}
-p {
-	border-radius: 10px;
+h2 {
+	background-color: lightgrey;
+	margin: 10px;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	width: 250px;
+	border: solid olive;
+	text-align: center;
 }
